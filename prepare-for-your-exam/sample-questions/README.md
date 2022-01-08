@@ -101,3 +101,22 @@ ___
 
 
 ___
+
+<br>
+
+## Question #6
+
+#### Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?
+1. Implement automation.
+2. Design for agility.
+3. Design for failure.
+4. Implement elasticity.
+
+<br>
+
+> Answer: 3
+
+#### Reference:
+
+
+___
