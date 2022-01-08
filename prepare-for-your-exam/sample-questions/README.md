@@ -41,3 +41,24 @@ ___
 
 
 ___
+
+
+## Question #3
+
+#### Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+1. Amazon Glacier
+2. AWS Storage Gateway
+3. Amazon S3
+4. Amazon EBS
+
+
+<br>
+
+> Answer: 3
+
+
+#### Reference:
+- <a href="https://aws.amazon.com/s3/faqs/">Amazon S3 FAQs</a>
+
+
+___
