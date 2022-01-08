@@ -62,3 +62,22 @@ ___
 
 
 ___
+
+## Question #4
+
+#### What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice areas?
+1. AWS Enterprise Support
+2. AWS Solutions Architects
+3. AWS Professional Services
+4. AWS Account Managers
+
+
+<br>
+
+> Answer: 3
+
+
+#### Reference:
+- <a href="https://aws.amazon.com/professional-services/">AWS Professional Services</a>
+
+___
