@@ -221,3 +221,24 @@ ___
 - <a href="https://aws.amazon.com/cloudtrail/">AWS CloudTrail</a>
 
 ___
+
+
+
+<br>
+
+## Question #12
+
+#### Which of the following are characteristics of Amazon S3? (Choose two.)
+1. A global file system
+2. An object store
+3. A local file store
+4. A network file system
+5. A durable storage system
+
+<br>
+
+> Answer: 2 , 5
+
+#### Reference:
+
+___
