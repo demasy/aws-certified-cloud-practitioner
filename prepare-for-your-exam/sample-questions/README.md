@@ -141,3 +141,22 @@ ___
 
 
 ___
+
+
+<br>
+
+## Question #8
+
+#### Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance?
+1. AWS Cost Explorer
+2. AWS Trusted Advisor
+3. Consolidated billing
+4. Detailed billing
+
+<br>
+
+> Answer: 2
+
+#### Reference:
+
+___
