@@ -160,3 +160,23 @@ ___
 #### Reference:
 
 ___
+
+
+<br>
+
+## Question #9
+
+#### Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?
+1. Spot Instances
+2. Reserved Instances
+3. Dedicated Hosts
+4. On-Demand Instances
+
+<br>
+
+> Answer: 3
+
+#### Reference:
+- <a href="https://aws.amazon.com/ec2/pricing/">Amazon EC2 pricing</a>
+
+___
