@@ -81,3 +81,23 @@ ___
 - <a href="https://aws.amazon.com/professional-services/">AWS Professional Services</a>
 
 ___
+
+## Question #5
+
+#### A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house.
+#### Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+1. AWS Partner Network Technology Partners
+2. AWS Marketplace
+3. AWS Partner Network Consulting Partners
+4. AWS Service Catalog
+
+
+<br>
+
+> Answer: 3
+
+
+#### Reference:
+
+
+___
