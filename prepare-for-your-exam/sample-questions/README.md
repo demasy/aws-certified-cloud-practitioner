@@ -120,3 +120,24 @@ ___
 
 
 ___
+
+<br>
+
+## Question #7
+
+#### Which AWS services can host a Microsoft SQL Server database? (Choose two.)
+1. Amazon EC2
+2. Amazon Relational Database Service (Amazon RDS)
+3. Amazon Aurora
+4. Amazon Redshift
+5. Amazon S3
+
+<br>
+
+> Answer: 1 , 2
+
+#### Reference:
+- <a href="https://aws.amazon.com/sql/">Microsoft SQL Server on AWS</a>
+
+
+___
