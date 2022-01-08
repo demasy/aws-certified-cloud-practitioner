@@ -20,3 +20,23 @@
 
 
 ___
+
+<br>
+
+## Question #2
+
+### The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
+1. Cost allocation tags
+2. Consolidated billing
+3. AWS Budgets
+4. AWS Marketplace
+
+> Answer: 3
+
+<br>
+
+#### Reference:
+- <a href="https://aws.amazon.com/aws-cost-management/aws-budgets/">AWS Budgets</a>
+
+
+___
