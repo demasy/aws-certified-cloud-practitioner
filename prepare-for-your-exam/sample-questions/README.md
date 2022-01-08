@@ -200,3 +200,24 @@ ___
 #### Reference:
 
 ___
+
+
+
+<br>
+
+## Question #11
+
+#### Which service enables risk auditing by continuously monitoring and logging account activity, including user actions in the AWS Management Console and AWS SDKs?
+1. Amazon CloudWatch
+2. AWS CloudTrail
+3. AWS Config
+4. AWS Health
+
+<br>
+
+> Answer: 2
+
+#### Reference:
+- <a href="https://aws.amazon.com/cloudtrail/">AWS CloudTrail</a>
+
+___
