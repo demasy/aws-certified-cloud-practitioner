@@ -180,3 +180,23 @@ ___
 - <a href="https://aws.amazon.com/ec2/pricing/">Amazon EC2 pricing</a>
 
 ___
+
+
+<br>
+
+## Question #10
+
+#### Which AWS characteristics make AWS cost effective for a workload with dynamic user demand? (Choose two.)
+1. High availability
+2. Shared security model
+3. Elasticity
+4. Pay-as-you-go pricing
+5. Reliability
+
+<br>
+
+> Answer: 3 , 4
+
+#### Reference:
+
+___
