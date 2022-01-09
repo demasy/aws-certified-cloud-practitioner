@@ -264,6 +264,7 @@ ___
 
 ___
 
+<br>
 
 ## Question #14
 
@@ -281,6 +282,7 @@ ___
 
 ___
 
+<br>
 
 ## Question #15
 
@@ -299,6 +301,7 @@ ___
 
 ___
 
+<br>
 
 ## Question #16
 
@@ -316,6 +319,8 @@ ___
 - <a href="https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks">Region Maps and Edge Networks</a>
 
 ___
+
+<br>
 
 ## Question #17
 
