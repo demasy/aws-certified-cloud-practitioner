@@ -316,3 +316,19 @@ ___
 - <a href="https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks">Region Maps and Edge Networks</a>
 
 ___
+
+## Question #17
+
+#### Which AWS tools assist with estimating costs? (Choose three.)
+1. Detailed billing report
+2. Cost allocation tags
+3. AWS Simple Monthly Calculator
+4. AWS Total Cost of Ownership (TCO) Calculator
+5. Cost Estimator
+
+<br>
+
+> Answer: 2 , 3 , 4
+
+#### Reference:
+___
