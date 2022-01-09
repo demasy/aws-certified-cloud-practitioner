@@ -280,3 +280,21 @@ ___
 #### Reference:
 
 ___
+
+
+## Question #15
+
+#### A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes.
+#### Which service should the company use?
+1. Amazon Redshift
+2. Amazon DynamoDB
+3. Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store
+4. Amazon EC2 with Amazon Elastic Block Store (Amazon EBS)
+
+<br>
+
+> Answer: 4
+
+#### Reference:
+
+___
