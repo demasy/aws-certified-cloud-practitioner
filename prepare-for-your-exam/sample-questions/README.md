@@ -298,3 +298,21 @@ ___
 #### Reference:
 
 ___
+
+
+## Question #16
+
+#### Which of the following is a correct relationship between regions, Availability Zones, and edge locations?
+1. Data centers contain regions.
+2. Regions contain Availability Zones.
+3. Availability Zones contain edge locations.
+4. Edge locations contain regions.
+
+<br>
+
+> Answer: 2
+
+#### Reference:
+- <a href="https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks">Region Maps and Edge Networks</a>
+
+___
