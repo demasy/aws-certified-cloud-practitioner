@@ -263,3 +263,20 @@ ___
 - <a href="https://www.stratoscale.com/blog/cloud/building-hybrid-cloud-environment-using-amazon-cloud/">Building a Hybrid Cloud Environment Using Amazon Cloud</a>
 
 ___
+
+
+## Question #14
+
+#### What costs are included when comparing AWS Total Cost of Ownership (TCO) with on-premises TCO?
+1. Project management
+2. Antivirus software licensing
+3. Data center security
+4. Software development
+
+<br>
+
+> Answer: 3
+
+#### Reference:
+
+___
