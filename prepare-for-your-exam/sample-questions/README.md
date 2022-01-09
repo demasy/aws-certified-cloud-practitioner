@@ -242,3 +242,24 @@ ___
 #### Reference:
 
 ___
+
+
+<br>
+
+## Question #13
+
+#### Which services can be used across hybrid AWS Cloud architectures? (Choose two.)
+1. Amazon Route 53
+2. Virtual Private Gateway
+3. Classic Load Balancer
+4. Auto Scaling
+5. Amazon CloudWatch default metrics
+
+<br>
+
+> Answer: 1 , 2
+
+#### Reference:
+- <a href="https://www.stratoscale.com/blog/cloud/building-hybrid-cloud-environment-using-amazon-cloud/">Building a Hybrid Cloud Environment Using Amazon Cloud</a>
+
+___
