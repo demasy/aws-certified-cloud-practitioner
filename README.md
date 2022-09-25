@@ -13,4 +13,4 @@
 - Monitoring and Analytics
 - Pricing and Support
 - Migration and Innovation
-- AWS Certified Cloud Practitioner Basics
+- AWS Certified Cloud Practitioner Certification
