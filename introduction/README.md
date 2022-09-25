@@ -9,7 +9,8 @@
 
 ## Introduction to Cloud Computing
 
-What is cloud computing?
+**What is cloud computing?**
+
 
 **Cloud computing** is the **on-demand availability** of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center. Cloud computing relies on sharing of resources to achieve coherence and typically using a "pay-as-you-go" model which can help in reducing capital expenses but may also lead to unexpected operating expenses for unaware users. [^1]
 
@@ -18,6 +19,12 @@ What is cloud computing?
  
 Watch it:
 [![Cloud computing](https://www.youtube.com/watch?v=mxT233EdY5c)](https://www.youtube.com/watch?v=mxT233EdY5c "Cloud computing")
+
+<br>
+
+**Who is using cloud computing?**
+
+Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as **data backup**, **disaster recovery**, **email**, **virtual desktops**, **software development and testing**, **big data analytics**, and **customer-facing web applications**. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world.
 
 
 <br>
