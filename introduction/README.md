@@ -26,6 +26,11 @@ Watch it:
 
 Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as **data backup**, **disaster recovery**, **email**, **virtual desktops**, **software development and testing**, **big data analytics**, and **customer-facing web applications**. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world.
 
+The on-demand delivery of IT resources and applications through the internet.
+- Access services on demand
+- Avoid large upfront investments
+- Provision computing resources as needed
+- Pay only for what you use
 
 <br>
 
