@@ -2,7 +2,7 @@
 
 - Introduction to Cloud Computing
 - Cloud Computing Deployment Models
-- Benefits of cloud computing
+- Six Benefits of Cloud Computing
 
 <br>
 
