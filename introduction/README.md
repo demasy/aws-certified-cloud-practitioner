@@ -13,4 +13,4 @@
 <br>
 
 ##### References
-[^1]: Cloud computing by Wikipedia
+[^1]: <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud computing by Wikipedia</a>
