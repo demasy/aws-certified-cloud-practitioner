@@ -2,9 +2,15 @@
 
 <br>
 
-### AWS Certified Cloud Practitioner Outline
+# AWS Certified Cloud Practitioner Outline
 - Introduction
-- Foundations of Cloud Computing
-- Technology
-- Security and Compliance
-- Pricing, Billing, and Governance
+- Introduction to Amazon Web Services
+- Compute in the Cloud
+- Global Infrastructure and Reliability
+- Networking
+- Storage and Databases
+- Security
+- Monitoring and Analytics
+- Pricing and Support
+- Migration and Innovation
+- AWS Certified Cloud Practitioner Basics
