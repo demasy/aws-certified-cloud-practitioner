@@ -2,7 +2,7 @@
 
 <br>
 
-# AWS Certified Cloud Practitioner Outline
+## AWS Certified Cloud Practitioner Outline
 - Introduction
 - Introduction to Amazon Web Services
 - Compute in the Cloud
