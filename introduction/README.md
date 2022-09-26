@@ -16,7 +16,16 @@
 
 **Cloud computing** is the **on-demand delivery of IT resources over the Internet** with **pay-as-you-go pricing**. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).[^2]
 
- 
+<br>
+
+**The on-demand delivery of IT resources** and applications through the internet.
+- **Access services on demand**
+- **Avoid large upfront investments**
+- **Provision computing resources as needed**
+- **Pay only for what you use**
+
+<br>
+
 Watch it:
 [![Cloud computing](https://www.youtube.com/watch?v=mxT233EdY5c)](https://www.youtube.com/watch?v=mxT233EdY5c "Cloud computing")
 
@@ -27,6 +36,7 @@ Watch it:
 Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as **data backup**, **disaster recovery**, **email**, **virtual desktops**, **software development and testing**, **big data analytics**, and **customer-facing web applications**. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world.
 
 <br>
+
 
 ## Cloud Computing Deployment Models
 
