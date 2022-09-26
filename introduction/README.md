@@ -2,7 +2,7 @@
 
 - <a href="#introduction-to-cloud-computing">Introduction to Cloud Computing</a>
 - <a href="#cloud-computing-deployment-models">Cloud Computing Deployment Models</a>
-- Six Benefits of Cloud Computing
+- <a href="#six-benefits-of-cloud-computing">Six Benefits of Cloud Computing</a>
 
 <br>
 
@@ -52,6 +52,33 @@ Organizations of every type, size, and industry are using the cloud for a wide v
 ### Hybrid deployment
 - Connect cloud-based resources to on-premises infrastructure
 - Integrate cloud-based resources with legacy IT applications
+
+<br>
+
+## Six Benefits of Cloud Computing
+
+### Variable expenses
+- **Upfront expenses**: Invest in technology resources before using them
+- **Variable expenses**: Pay only for what you use
+
+### Cost optimization
+- Focus on applications and customers
+
+### Capacity
+- **Stop guessing** on your infrastructure capacity needs
+- **Scale in** and **scale out** as needed
+
+### Economies of scale
+- **Smaller scale**: Pay higher prices based on only your own usage
+- **Economies of scale**: Benefit from customers’ aggregated usage
+
+### Speed and agility
+- **Data centers**: Weeks between wanting resources and having resources
+- **Cloud computing**: Minutes between wanting resources and having resources
+
+### Global in minutes
+- Quickly deploy applications worldwide
+- Use the AWS global infrastructure.
 
 
 <br>
