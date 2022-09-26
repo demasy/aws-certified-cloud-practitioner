@@ -4,7 +4,7 @@
 
 ## AWS Certified Cloud Practitioner Outline
 - <a href="https://github.com/demasy/aws-certified-cloud-practitioner/tree/main/introduction">**Introduction**</a>
-- Introduction to Amazon Web Services
+- <a href="https://github.com/demasy/aws-certified-cloud-practitioner/tree/main/introduction-to-aws">**Introduction to Amazon Web Services**</a>
 - Compute in the Cloud
 - Global Infrastructure and Reliability
 - Networking
