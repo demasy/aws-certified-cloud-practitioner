@@ -1,7 +1,7 @@
 # Introduction
 
 - <a href="#introduction-to-cloud-computing">Introduction to Cloud Computing</a>
-- Cloud Computing Deployment Models
+- <a href="#cloud-computing-deployment-models">Cloud Computing Deployment Models</a>
 - Six Benefits of Cloud Computing
 
 <br>
@@ -25,6 +25,23 @@ Watch it:
 **Who is using cloud computing?**
 
 Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as **data backup**, **disaster recovery**, **email**, **virtual desktops**, **software development and testing**, **big data analytics**, and **customer-facing web applications**. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world.
+
+<br>
+
+## Cloud Computing Deployment Models
+
+### On-premises deployment
+- Use virtualization and resource management tools to deploy resources.
+- Use application management and virtualization technologies to increase resource usage.
+
+### Cloud-based deployment
+- Run all parts of the application in the cloud
+- Migrate existing applications to the cloud
+- Design and build new applications in the cloud
+
+### Hybrid deployment
+- Connect cloud-based resources to on-premises infrastructure
+- Integrate cloud-based resources with legacy IT applications
 
 
 <br>
